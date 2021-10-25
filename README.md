@@ -11,4 +11,4 @@
 ![Webpack](https://img.shields.io/badge/Webpack-866FD7?style=for-the-badge&logo=Webpack)
 
 ## Follow me
-[![LinkedIn](https://img.shields.io/badge/HTML-866FD7?style=for-the-badge&logo=html5)](https://www.linkedin.com/in/diana-gromova1901/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-866FD7?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/diana-gromova1901/)
