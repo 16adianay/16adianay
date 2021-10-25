@@ -12,3 +12,4 @@
 
 ## Follow me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-866FD7?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/diana-gromova1901/)
+[![Вконтакте](https://img.shields.io/badge/Вконтакте-866FD7?style=for-the-badge&logo=VK)](https://vk.com/gromova_alexandrovna)
