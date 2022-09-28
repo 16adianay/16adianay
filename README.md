@@ -1,6 +1,5 @@
 ![Header](https://github.com/16adianay/16adianay/blob/main/assets/programming.gif)
 
-## I'm a beginner frontend developer 
 
 ## Languages and Tools
 ![HTML](https://img.shields.io/badge/HTML-866FD7?style=for-the-badge&logo=html5)
@@ -12,4 +11,3 @@
 
 ## Follow me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-866FD7?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/diana-gromova1901/)
-[![Вконтакте](https://img.shields.io/badge/Вконтакте-866FD7?style=for-the-badge&logo=VK)](https://vk.com/gromova_alexandrovna)
